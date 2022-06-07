@@ -5,3 +5,5 @@ def modal(a,b):
 
 def modal(a,b):
     print("modal 2")
+
+print("modal 2 is final")
